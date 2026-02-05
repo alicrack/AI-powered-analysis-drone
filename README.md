@@ -1,4 +1,4 @@
-*** Análisis de torres de telecomunicaciones con drones e IA ***
+Análisis de torres de telecomunicaciones con drones e IA
 
 Este proyecto aborda la inspección inteligente de torres de telecomunicaciones
 mediante el uso de drones autónomos y algoritmos de inteligencia artificial.
@@ -10,7 +10,7 @@ El sistema facilita el mantenimiento predictivo y la toma de decisiones basada e
 Como resultado, se mejoran la seguridad, la eficiencia operativa
 y la reducción de costes en infraestructuras críticas.
 
-*** Telecom Tower Analysis Using AI and Drones ***
+Telecom Tower Analysis Using AI and Drones
 
 This project focuses on the intelligent inspection of telecommunications towers
 using autonomous drones and artificial intelligence algorithms.
